@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Editor.md
-###  en esta en esta parte se esta testeando el como usar el editor .md, no tomar de referencia por favor
+###  En esta en esta parte se esta testeando el como usar el editor .md, no tomar de referencia por favor
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
